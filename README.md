@@ -24,12 +24,10 @@ Our bot detects them instantly and sends you an alert.
 
 ## 🔔 How to Get Alerts
 
-- **Discord:** [Join here](YOUR_DISCORD_LINK)
-- **Telegram:** [Join here](YOUR_TELEGRAM_LINK)
+- **Discord:** [Join here]((https://discord.gg/A2KuFUpJy6))
 
 ---
 
-## 📬 Links
+## 📬 Link
 
-- Discord: YOUR_LINK
-- Telegram: YOUR_LINK
+- Discord: https://discord.gg/A2KuFUpJy6
