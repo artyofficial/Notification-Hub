@@ -1,7 +1,6 @@
 # Skinrave Rain Notification
 
-Get instant alerts when a rain starts on Skinrave, BanditCamp, Chicken.gg and more.
-Never miss free money again — notifications sent directly to Telegram or Discord.
+Get instant rain alerts on Skinrave, Bsite, Rust-Magic, CSGOBig, CSGOGem, Upgrader, JuiceGG and CSGOWin via Discord.
 
 ---
 
