@@ -22,12 +22,6 @@ Our bot detects them instantly and sends you an alert.
 
 ---
 
-## 🔔 How to Get Alerts
-
-- **Discord:** [Join here]((https://discord.gg/A2KuFUpJy6))
-
----
-
-## 📬 Link
+## 📬 Discord Server Link
 
 - Discord: https://discord.gg/A2KuFUpJy6
