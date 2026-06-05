@@ -13,16 +13,17 @@ Our bot detects them instantly and sends you an alert.
 
 ## 🌍 Supported Sites
 
-| Site        | Link                                      |
-|-------------|-------------------------------------------|
-| 🎰 Skinrave  | [skinrave.gg](https://skinrave.gg)        |
-| 🎲 Bsite     | [bsite.gg](https://bsite.gg)             |
-| ⚡ Rust-Magic | [rustmagic.com](https://rustmagic.com)   |
-| 🎰 CSGOBig   | [csgobig.com](https://csgobig.com)       |
-| 💎 CSGOGem   | [csgogem.com](https://csgogem.com)       |
-| 🎲 Upgrader  | [upgrader.com](https://upgrader.com)     |
-| 🕹️ JuiceGG  | [juice.gg](https://juice.gg)             |
-| ⚡ CSGOWin   | [csgowin.com](https://csgowin.com)       |
+| Site        |
+|-------------|
+| 🎰 Skinrave  |
+| 🎲 Bsite     |
+| ⚡ Rust-Magic |
+| 🎰 CSGOBig   |
+| 💎 CSGOGem   |
+| 🎲 Upgrader  |
+| 🕹️ Juice.gg  |
+| 🐔 Chicken.gg |
+| ⚡ CSGOWin   |
 
 ---
 
