@@ -1,4 +1,4 @@
-# Skinrave Rain Notification
+# Notifier Hub
 
 Get instant rain alerts on Skinrave, Bsite, RustMagic, CSGOBig, CSGOGem, Upgrader, Chicken.gg and more via Discord.
 
