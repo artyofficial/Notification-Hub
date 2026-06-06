@@ -1,6 +1,6 @@
 # Notifier Hub
 
-Get instant rain alerts on Skinrave, Bsite, RustMagic, CSGOBig, CSGOGem, Upgrader, Chicken.gg and more via Discord.
+Get instant rain alerts on Skinrave, Bsite, Rust Magic, CSGOBig, Bandit Camp, Upgrader, Chicken.gg and more via Discord.
 
 ---
 
@@ -17,13 +17,14 @@ Our bot detects them instantly and sends you an alert.
 |-------------|
 | 🎰 Skinrave  |
 | 🎲 Bsite     |
-| ⚡ Rust-Magic |
+| ⚡ Rust Magic |
 | 🎰 CSGOBig   |
 | 💎 CSGOGem   |
 | 🎲 Upgrader  |
 | 🕹️ Juice.gg  |
 | 🐔 Chicken.gg |
 | ⚡ CSGOWin   |
+| 🤠 Bandit Camp |
 
 ---
 
