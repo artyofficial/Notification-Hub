@@ -15,16 +15,18 @@ Our bot detects them instantly and sends you an alert.
 
 | Site        |
 |-------------|
-| 🎰 Skinrave  |
-| 🎲 Bsite     |
-| ⚡ Rust Magic |
-| 🎰 CSGOBig   |
+| 💲 Skinrave  |
+| 🅱️ Bsite     |
+| 🪄 Rust Magic |
+| ⬆️ CSGOBig   |
 | 💎 CSGOGem   |
-| 🎲 Upgrader  |
-| 🕹️ Juice.gg  |
-| 🐔 Chicken.gg |
+| ⏫ Upgrader  |
+| 🧃 Juice.gg  |
 | ⚡ CSGOWin   |
+| 🐔 Chicken.gg |
 | 🤠 Bandit Camp |
+| 🌧️ Rain.gg |
+| 💀 Degen |
 
 ---
 
