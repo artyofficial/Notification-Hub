@@ -27,6 +27,7 @@ Our bot detects them instantly and sends you an alert.
 | 🤠 Bandit Camp |
 | 🌧️ Rain.gg |
 | 💀 Degen |
+| 📦 Unbox.gg|
 
 ---
 
