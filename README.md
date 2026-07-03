@@ -6,7 +6,6 @@
 
 [![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A2KuFUpJy6)
 [![Status](https://img.shields.io/badge/Status-Active-00C853?style=for-the-badge)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-1.0.0-FF6F00?style=for-the-badge)](https://github.com)
 
 </div>
 
@@ -14,11 +13,11 @@
 
 ## 🚀 What is Notifier Hub?
 
-**Notifier Hub** is your ultimate companion for catching **rain events** on popular gambling sites. 
+**Notifier Hub** is your ultimate companion for catching **rain events** on popular gambling sites
 
-> 💰 *Rain events* are random free-money giveaways in chat rooms. Our bot detects them **instantly** and sends real-time alerts straight to your Discord server.
+> 💰 *Rain events* are random free-money giveaways in chat rooms. Our bot detects them **instantly** and sends alerts straight to the discord server
 
-No more missing out on free drops — stay ahead of the game with **lightning-fast notifications**!
+No more missing out on free drops — stay ahead of the game with **super notifications**!
 
 ---
 
@@ -49,7 +48,7 @@ No more missing out on free drops — stay ahead of the game with **lightning-fa
 
 ## 📬 Join Our Community
 
-Get started in **seconds** — join our Discord server and enable notifications for your favorite sites!
+Get started in **seconds**, just join our Discord server and enable notifications for your favorite sites!
 
 <p align="center">
   <a href="https://discord.gg/A2KuFUpJy6">
