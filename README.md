@@ -2,7 +2,7 @@
 
 # 🌧️ Notifier Hub
 
----
+</div>
 
 ## 📖 What is Notifier Hub?
 
