@@ -15,18 +15,18 @@
 
 **Notifier Hub** is your ultimate companion for catching **rain events** on popular gambling sites
 
-> 💰 *Rain events* are random free-money giveaways in chat rooms. Our bot detects them **instantly** and sends alerts straight to the discord server
+> 💰 *Rain events* are random free money giveaways in chat rooms. Our bot detects them **instantly** and sends alerts straight to the discord server
 
-No more missing out on free drops — stay ahead of the game with **super notifications**!
+No more missing out on free drops, stay ahead of the game with **Notification Hub**!
 
 ---
 
 ## ✨ Features
 
-- ⚡ **Real-time detection** — Get alerts the moment a rain starts
-- 📡 **Multi-site support** — 10+ platforms covered
-- 🔔 **Discord integration** — Instant pings wherever you are
-- 🎯 **Accurate & reliable** — Built for speed and precision
+- ⚡ **Real-time detection** - Get alerts the moment a rain starts
+- 📡 **Multi-site support** - 10+ platforms covered
+- 🔔 **Discord integration** - Instant pings wherever you are
+- 🎯 **Accurate & reliable** - Built for speed and precision
 
 ---
 
