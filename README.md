@@ -32,18 +32,6 @@
 <br>
 <br>
 
-**📬 Join the Community**
-
-<br>
-
-<p align="center">
-  <a href="https://discord.gg/A2KuFUpJy6">
-    <img src="https://img.shields.io/badge/🔔_Get_Alerts_Now-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="280" />
-  </a>
-</p>
-
-<br>
-
 ---
 
 <p align="center">
