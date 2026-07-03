@@ -6,11 +6,9 @@
 
 ## 📖 What is Notifier Hub?
 
-**Notifier Hub** is a real-time alert system that monitors popular gambling platforms for **rain events** — random giveaways where sites drop free money directly into chat.
+**Notifier Hub** is a real-time alert system that monitors popular gambling platforms for **rain events** which are random giveaways where sites drop free money directly into chat.
 
 🔔 The moment a rain starts, our bot detects it within seconds and sends you an instant notification via Discord. No more refreshing pages or missing out on free rewards.
-
-> 💰 **Free money, delivered to your Discord.**
 
 ---
 
@@ -18,7 +16,7 @@
 
 | Speed | Free | Coverage |
 |:---:|:---:|:---:|
-| **< 30 Seconds** | **100% Forever** | **15+ Platforms** |
+| **< 30 Seconds** | **100% Forever** | **10+ Platforms** |
 
 ---
 
