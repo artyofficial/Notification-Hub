@@ -22,11 +22,11 @@
 
 ## 🌐 Supported Sites
 
-| 💲 Skinrave | 🅱️ Bsite | 🪄 Rust Magic |
+| 💲 Skinrave | 🤠 Bandit Camp | 💎 CSGOGem |
 |:---:|:---:|:---:|
-| ⬆️ CSGOBig | 💎 CSGOGem | ⏫ Upgrader |
+| ⬆️ CSGOBig | 🪄 Rust Magic | ⏫ Upgrader |
 | 🧃 Juice.gg | ⚡ CSGOWin | 🐔 Chicken.gg |
-| 🤠 Bandit Camp | 🌧️ Rain.gg | 💀 Degen |
+| 🅱️ Bsite | 🌧️ Rain.gg | 💀 Degen |
 | 📦 Unbox.gg | ✨ *More soon* | ✨ *More soon* |
 
 ---
