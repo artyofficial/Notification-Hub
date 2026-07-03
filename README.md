@@ -2,44 +2,55 @@
 
 # 🌧️ Notifier Hub
 
-### Instant Rain Alerts via Discord
+### 🚀 Instant Rain Alerts via Discord
 
-[![Discord](https://img.shields.io/badge/Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A2KuFUpJy6)
+<br>
 
-</div>
+[![Discord](https://img.shields.io/badge/💬_Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A2KuFUpJy6)
 
----
-
-## 🚀 Features
+<br>
+<br>
 
 | ⚡ Speed | 💯 Free | 📡 Coverage |
 |:---:|:---:|:---:|
-| Under 30 seconds | 100% forever | 15+ platforms |
+| **< 30 Seconds** | **100% Forever** | **15+ Platforms** |
+
+<br>
+<br>
 
 ---
 
 ## 🌐 Supported Sites
 
-| | | |
-|:---:|:---:|:---:|
+<br>
+
 | 💲 Skinrave | 🅱️ Bsite | 🪄 Rust Magic |
+|:---:|:---:|:---:|
 | ⬆️ CSGOBig | 💎 CSGOGem | ⏫ Upgrader |
 | 🧃 Juice.gg | ⚡ CSGOWin | 🐔 Chicken.gg |
 | 🤠 Bandit Camp | 🌧️ Rain.gg | 💀 Degen |
-| 📦 Unbox.gg | | |
+| 📦 Unbox.gg | ✨ *More soon* | ✨ *More soon* |
+
+<br>
 
 ---
 
-## 📬 Join Discord
+## 📬 Join the Community
+
+<br>
 
 <p align="center">
   <a href="https://discord.gg/A2KuFUpJy6">
-    <img src="https://img.shields.io/badge/Click_Here_to_Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="250" />
+    <img src="https://img.shields.io/badge/🔔_Get_Alerts_Now-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="280" />
   </a>
 </p>
+
+<br>
 
 ---
 
 <p align="center">
-  Made with ❤️
+  <b>Made with ❤️ by the Notifier Hub Team</b>
 </p>
+
+</div>
