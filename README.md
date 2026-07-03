@@ -31,13 +31,13 @@
 
 <br>
 
+---
+
 <p align="center">
   <a href="https://discord.gg/A2KuFUpJy6">
     <img src="https://img.shields.io/badge/💬_Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   <b>Made with ❤️ by the Notifier Hub Team</b>
