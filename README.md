@@ -18,6 +18,12 @@
 <br>
 <br>
 
+**📖 What is this?**
+
+Get instant alerts when gambling sites drop **free money giveaways** (rains) in chat. Never miss a claim again.
+
+<br>
+
 **🌐 Supported Sites**
 
 <br>
