@@ -18,9 +18,7 @@
 <br>
 <br>
 
----
-
-## 🌐 Supported Sites
+**🌐 Supported Sites**
 
 <br>
 
@@ -32,10 +30,9 @@
 | 📦 Unbox.gg | ✨ *More soon* | ✨ *More soon* |
 
 <br>
+<br>
 
----
-
-## 📬 Join the Community
+**📬 Join the Community**
 
 <br>
 
