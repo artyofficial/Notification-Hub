@@ -2,8 +2,6 @@
 
 # 🌧️ Notifier Hub
 
-### 🚀 Instant Rain Alerts via Discord
-
 </div>
 
 ---
