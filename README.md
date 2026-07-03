@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌧️ Notification Hub
+# 🌧️ Notification Hub 🌧️
 
 </div>
 
