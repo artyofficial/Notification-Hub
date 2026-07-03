@@ -31,10 +31,6 @@
 
 ---
 
-## 📬 Join the Community
-
-Ready to start claiming? Click the button below to join our Discord and enable notifications for your favorite sites.
-
 <br>
 
 <p align="center">
