@@ -4,10 +4,6 @@
 
 ### 🚀 Instant Rain Alerts via Discord
 
-<br>
-
-[![Discord](https://img.shields.io/badge/💬_Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/A2KuFUpJy6)
-
 </div>
 
 ---
@@ -43,7 +39,15 @@
 
 ## 📬 Join the Community
 
-Ready to start claiming? Click the button above to join our Discord and enable notifications for your favorite sites.
+Ready to start claiming? Click the button below to join our Discord and enable notifications for your favorite sites.
+
+<br>
+
+<p align="center">
+  <a href="https://discord.gg/A2KuFUpJy6">
+    <img src="https://img.shields.io/badge/💬_Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
