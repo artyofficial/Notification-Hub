@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🌧️ Notifier Hub
+# 🌧️ Notification Hub
 
 </div>
 
-## 📖 What is Notifier Hub?
+## 📖 What is Notification Hub?
 
-**Notifier Hub** is a real-time alert system that monitors popular gambling platforms for **rain events** which are random giveaways where sites drop free money directly into chat.
+**Notification Hub** is a real-time alert system that monitors popular gambling platforms for **rain events** which are random giveaways where sites drop free money directly into chat.
 
 🔔 The moment a rain starts, our bot detects it within seconds and sends you an instant notification via Discord. No more refreshing pages or missing out on free rewards.
 
