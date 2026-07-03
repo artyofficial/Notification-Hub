@@ -29,8 +29,6 @@
 | 🤠 Bandit Camp | 🌧️ Rain.gg | 💀 Degen |
 | 📦 Unbox.gg | ✨ *More soon* | ✨ *More soon* |
 
-<br>
-
 ---
 
 <p align="center">
