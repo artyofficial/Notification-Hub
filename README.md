@@ -27,7 +27,7 @@
 | ⬆️ CSGOBig | 🪄 Rust Magic | ⏫ Upgrader |
 | 🧃 Juice.gg | ⚡ CSGOWin | 🐔 Chicken.gg |
 | 🅱️ Bsite | 🌧️ Rain.gg | 💀 Degen |
-| 📦 Unbox.gg | ✨ *More soon* | ✨ *More soon* |
+| 📦 Unbox.gg | 🪂 CSdrop | ✨ *More soon* |
 
 ---
 
