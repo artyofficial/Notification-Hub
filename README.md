@@ -38,5 +38,5 @@
 </p>
 
 <p align="center">
-  <b>Made with ❤️ by the Notifier Hub Team</b>
+  <b>Made with ❤️ by the Notification Hub Team</b>
 </p>
