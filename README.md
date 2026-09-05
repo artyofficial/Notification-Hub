@@ -14,16 +14,15 @@
 
 ## ⚡ Features
 
-| Speed | Free | Coverage |
-|:---:|:---:|:---:|
-| **< 30 Seconds** | **100% Forever** | **18+ Platforms** |
+| Speed | Free | Coverage | Uptime |
+|:---:|:---:|:---:|:---:|
+| **< 30 Seconds** | **No Requirements** | **20+ Platforms** | | 99.9% Uptime |
 
 ---
 
 ## 🌐 Supported Sites
 
 | 💲 SkinRave | 🤠 BanditCamp | 💎 CSGOGem |
-|:---:|:---:|:---:|
 | ⬆️ CSGOBig | 🪄 RustMagic | ⏫ Upgrader |
 | 🧃 JuiceGG | 🌧️ RainGG | 🐔 ChickenGG |
 | 📦 UnboxGG | 🪂 CSDrop | ⚔️ ClashGG |
