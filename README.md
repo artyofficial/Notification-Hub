@@ -16,7 +16,7 @@
 
 | Speed | Free | Coverage | Uptime |
 |:---:|:---:|:---:|:---:|
-| **< 30 Seconds** | **No Requirements** | **20+ Platforms** | | 99.9% Uptime |
+| **< 30 Seconds** | **No Requirements** | **20+ Platforms** | 99.9% Uptime |
 
 ---
 
