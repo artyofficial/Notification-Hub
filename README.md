@@ -16,18 +16,19 @@
 
 | Speed | Free | Coverage |
 |:---:|:---:|:---:|
-| **< 30 Seconds** | **100% Forever** | **10+ Platforms** |
+| **< 30 Seconds** | **100% Forever** | **18+ Platforms** |
 
 ---
 
 ## 🌐 Supported Sites
 
-| 💲 Skinrave | 🤠 Bandit Camp | 💎 CSGOGem |
+| 💲 SkinRave | 🤠 BanditCamp | 💎 CSGOGem |
 |:---:|:---:|:---:|
-| ⬆️ CSGOBig | 🪄 Rust Magic | ⏫ Upgrader |
-| 🧃 Juice.gg | ⚡ CSGOWin | 🐔 Chicken.gg |
-| 🅱️ Bsite | 🌧️ Rain.gg | 💀 Degen |
-| 📦 Unbox.gg | 🪂 CSdrop | ✨ +More |
+| ⬆️ CSGOBig | 🪄 RustMagic | ⏫ Upgrader |
+| 🧃 JuiceGG | 🌧️ RainGG | 🐔 ChickenGG |
+| 📦 UnboxGG | 🪂 CSDrop | ⚔️ ClashGG |
+| 💰 LuxDrop | 🥇 GoldPump | 🎮 SkinFans |
+| 🎁 Lootbox | 🔧 RustEasy | ⚡ CSGOWin |
 
 ---
 
