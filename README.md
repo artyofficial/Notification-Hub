@@ -23,6 +23,7 @@
 ## 🌐 Supported Sites
 
 | 💲 SkinRave | 🤠 BanditCamp | 💎 CSGOGem |
+|:---:|:---:|:---:|
 | ⬆️ CSGOBig | 🪄 RustMagic | ⏫ Upgrader |
 | 🧃 JuiceGG | 🌧️ RainGG | 🐔 ChickenGG |
 | 📦 UnboxGG | 🪂 CSDrop | ⚔️ ClashGG |
