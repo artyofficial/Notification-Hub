@@ -28,7 +28,9 @@
 | 🧃 JuiceGG | 🌧️ RainGG | 🐔 ChickenGG |
 | 📦 UnboxGG | 🪂 CSDrop | ⚔️ ClashGG |
 | 💰 LuxDrop | 🥇 GoldPump | 🎮 SkinFans |
-| 🎁 Lootbox | 🔧 RustEasy | ⚡ CSGOWin |
+| 🎁 Lootbox | 🔧 RustEasy | 🏆 CSGOWin |
+| 👑 EmpireDrop | 🦘 Roobet | ♻️ WasteGG |
+| 🎲 Rollbux | 💀 CS2Reaper | |
 
 ---
 
