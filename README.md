@@ -30,7 +30,7 @@
 | 💰 LuxDrop | 🥇 GoldPump | 🎮 SkinFans |
 | 🎁 Lootbox | 🔧 RustEasy | 🏆 CSGOWin |
 | 👑 EmpireDrop | 🦘 Roobet | ♻️ WasteGG |
-| 🎲 Rollbux | 💀 CS2Reaper | |
+| 🎲 Rollbux | 💀 CS2Reaper | and many more! |
 
 ---
 
